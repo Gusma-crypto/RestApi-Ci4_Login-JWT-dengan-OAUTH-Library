@@ -1,3 +1,9 @@
+# Login Jwt RestApi dengan Codeigniter4 dan Auth libraries
+
+### References
+[Auth Server](https://bshaffer.github.io/oauth2-server-php-docs/cookbook/) + [Tutorial](https://github.com/alexlancer/CodeIgniter-RESTapi-Server-for-VueJS-Blog-project)
+
+
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
